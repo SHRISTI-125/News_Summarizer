@@ -21,3 +21,4 @@ Checkout my project : https://shristi-quick-news.streamlit.app/
 
 ## 📝 View
 
+![](https://github.com/user-attachments/assets/a23ff1ec-af94-401a-b3c1-9518940169ed)
